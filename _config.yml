@@ -1,9 +1,9 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Onyu Kang
+bio: 'A woman who wants to write poetry'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog about papers that I read and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -26,16 +26,16 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+# twitter: NivedithaRam
 # google: mygoogle
 # instagram: myinstagram
-#pinterest: annasw
-#linkedin: artiannaswamy
+# pinterest: annasw
+# linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
 github: NivedithaRam
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: onyukang@popeye.snu.ac.kr
 
 authors:
     NivedithaRam:
