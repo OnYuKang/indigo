@@ -22,15 +22,14 @@ highlighter: rouge
 #analytics-google: 'UA-74313908-1'
 
 # if you don't want comments in your posts, set to false
-#disqus: artiannaswamy
+disqus: false
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-# twitter: NivedithaRam
+facebook: https://www.facebook.com/profile.php?id=100014864448869
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: annasw
-# linkedin: artiannaswamy
+ linkedin: https://www.linkedin.com/in/onyu-kang-32062b139/
 # youtube: myyoutube
 # spotify: myspotify
 github: onyukang
@@ -43,7 +42,7 @@ authors:
         bio: Programmer who wants to write poetry
         external-image: false
         picture: assets/images/profile.jpg
-        #twitter: NivedithaRam
+        
 
 
 # do you want a larger site? change the option below
@@ -56,12 +55,12 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 research: true
 #teaching: true
 # if you don't need about or blog, comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
