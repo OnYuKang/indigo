@@ -1,6 +1,6 @@
 # main text of home
-name: 
-bio: 
+name: Onyu Kang
+bio: Programmer who wants to write poetry
 
 # twitter summary info
 description: A blog about papers that I read and stuff related
@@ -39,8 +39,8 @@ email: onyukang@popeye.snu.ac.kr
 
 authors:
     Onyu kang:
-        name: 
-        bio: 
+        name: Onyu kang
+        bio: Programmer who wants to write poetry
         external-image: false
         picture: assets/images/profile.jpg
         #twitter: NivedithaRam
