@@ -2,35 +2,28 @@
 layout: page
 title: Research
 ---
-<p>I am a member of <a href="http://popeye.snu.ac.kr/"> SCONE Lab </a> . I study about Social Network and recommender system
-    <a href ="https://en.wikipedia.org/wiki/Color-glass_condensate"> colour-glass condensate </a>. 
+<p>I am a member of <a href="http://popeye.snu.ac.kr/"> SCONE Lab </a> . I study about Social Network and recommender system. 
     Brief explanation of these projects are given below.
 
 </p>
-<h2> Social Network :</h2>
+<h2> Social Network Analysis:</h2>
 
-<p>  <a href="https://www.sphenix.bnl.gov/web/"> sPHENIX </a> at BNL. 
- <a href="https://www.bnl.gov/riken/research/QGP.php" target="_blank"> quark-gluon plasma </a>.  
+<p>   
+Social network analysis (SNA) is a strategy for investigating social structures through the use of network and graph theories. 
+    I analyze various aspects of social structures to extract useful information. 
+    Specially, I am focusing on analyzing network information diffusion and cascades, mechanism design for network influence maximization.   
 
 </p>
 
 
 <h2>Recommender systems:</h2>
 
-
-
-    <p>Soon to be updated </p>
+<p>
+    Recommender Systems (RSs) are software tools and techniques providing suggestions for items to be of use to a user. 
+    Traditional recommender systems always ignore social relationships among users.
+    We tend to ask our friends for recommendations in our daily life, such as digital product buying or touching movies seeing. 
+    Therefore, in order to improve recommender systems and to provide more personalized recommendation results, we need to incorporate social network information among users.
+</p>
 
     </p>
-<section class="list">
-    {% for post in site.posts %}
-        {% if post.research %}
-            <div class="item {% if post.star %}star{% endif %}">
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
-                </a>
-            </div>
-        {% endif %}
-    {% endfor %}
-</section>
+
