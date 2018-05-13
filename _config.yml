@@ -33,14 +33,11 @@ permalink: /:title/
 
 
 # if you don't have any of social below, comment the line
-#facebook: 
-#twitter: mytwitter
+facebook: https://www.facebook.com/profile.php?id=100014864448869
 # google: mygoogle
 # instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
+# pinterest: annasw
+linkedin: https://www.linkedin.com/in/onyu-kang-32062b139/
 github: https://github.com/OnYuKang
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
