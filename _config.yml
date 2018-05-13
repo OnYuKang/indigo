@@ -1,6 +1,6 @@
 # main text of home
 name: Onyu Kang
-bio: Programmer who wants to write poetry
+bio: A Programmer who wants to write poetry
 
 # twitter summary info
 description: A blog about papers that I read and stuff related
@@ -25,11 +25,11 @@ highlighter: rouge
 disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/profile.php?id=100014864448869
+facebook: onyukang
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: annasw
- linkedin: https://www.linkedin.com/in/onyu-kang-32062b139/
+ linkedin: onyukang/
 # youtube: myyoutube
 # spotify: myspotify
 github: onyukang
