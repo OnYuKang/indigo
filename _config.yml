@@ -1,6 +1,6 @@
 # main text of home
-name: Onyu Kang
-bio: 'A woman who wants to write poetry'
+name: 
+bio: 
 
 # twitter summary info
 description: A blog about papers that I read and stuff related
@@ -39,8 +39,8 @@ email: onyukang@popeye.snu.ac.kr
 
 authors:
     Onyu kang:
-        name: Onyu Kang
-        bio: 'A woman who wants to write poetry'
+        name: 
+        bio: 
         external-image: false
         picture: assets/images/profile.jpg
         #twitter: NivedithaRam
